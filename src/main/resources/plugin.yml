@@ -1,0 +1,10 @@
+name: FirstPlugin2
+version: '${project.version}'
+main: me.abc.firstplugin2.firstplugin2.FirstPlugin2
+api-version: 1.16
+authors: [ test ]
+description: FirstPlugin2
+
+commands:
+  Launch:
+    aliases:
